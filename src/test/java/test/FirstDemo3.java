@@ -7,7 +7,7 @@ package test;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
-public class FirstDemo {
+public class FirstDemo3 {
 
 	@Test(groups= {"smoke"})
 	public void sum()
